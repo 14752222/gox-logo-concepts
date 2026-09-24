@@ -1,0 +1,6 @@
+# Python 运行产物
+__pycache__/
+*.pyc
+
+# 本仓库不放生成产物：logo.png / favicon.png 由 make_assets.py 写到 Gox 主仓库的
+# website/assets/ 下，交给 gox-website 管理版本。
